@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+I am Rakesh Kothari
+
+I am the tech head at MicroDegree
+
 <!--
 **rakeshkothari12345/rakeshkothari12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
